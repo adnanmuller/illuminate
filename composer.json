@@ -1,0 +1,15 @@
+{
+    "name": "adnan/active_record_pattern",
+    "description": "mapping with active record pattern",
+    "require": {
+        "illuminate/database": "^6.3",
+        "illuminate/events": "^6.3"
+    },
+
+    "authors": [
+        {
+            "name": "adnanmuller",
+            "email": "adnan172@orange.fr"
+        }
+    ]
+}
